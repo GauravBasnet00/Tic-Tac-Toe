@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe game is  created in the python.
+Tic Tac Toe game  created in the python.
