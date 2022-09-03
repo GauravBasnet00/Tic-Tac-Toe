@@ -6,9 +6,9 @@ This game is platform dependent and hene works only on windows machine.
 
 Operation :
 
-This game was developed with version 3 of python :
+This game was developed with version 3 of python.
 
-To play  the game at first install python .
+To play  the game at first install python3 .
 Then there are two ways to run the game.
 1. By double clicking on the .py file .
 2. By using termingal to run the file .
